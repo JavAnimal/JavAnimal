@@ -15,19 +15,25 @@ POSTGRESQL,
 ANGULAR, 
 Con un alto sentido de pertenencia, Capacidad para trabajar bajo presión, en equipo, proactivo y dinámico, lo cual me permite encajar perfectamente en cualquier equipo de trabajo garantizando la productividad y calidad del servicio/producto terminado.
 
-<details><summary>CLICK ME</summary>
+Le puedo programar en:
 
-<p>
-
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
-</p>
-
-</details>
+## Java v8, v9, v10, v11.
+  - Programacion en java usando buenas practicas de codificacion
+  - Aplicación de conceptos SOLID
+  - Manejo y aplicacion de herencia y polimorfismo.
+  - Desarrollo enfocado a la interfaz y no a la implementacion.
+  
+## Spring
+  - Uso de spring con injeccion de dependencia.
+  - Manejo de dependencias con maven.
+  - No solo se usar sprint initializ, tambien entiendo el core del framework.
+  
+## Base de datos
+  - Sql Server 
+  - Oracle
+  - mysql
+  - posgress
+  
 
 
 

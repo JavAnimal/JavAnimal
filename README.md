@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Soy un desarrollador Backend Java con +7 años de experiencia trabajando en proyectos de distinta naturaleza, distintos entornos y distintas personas. Muy interesado en la buena codificación, la teoria detrás del código y las buenas practicas. Uso Java desde mi primer dia laboral conociendo la programación con JEE, luego Struts, y Spring con sus distintos modulos ( Spring boot, Spring MVC, Spring JPA, Spring Security, Spring actuator, Spring batch y algunos otros modulos que no recuerdo). He trabajado en proyectos en donde primaban las N-capas monoliticas y actualmente con arquitecturas cloud con azure, openshift y aws bajo el prisma de los microservicios. 
+
 <!--
 **JavAnimal/JavAnimal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
